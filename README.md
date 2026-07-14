@@ -17,6 +17,7 @@
 * Includes patient details, department, disease, doctor, admission date, and revenue.
 * Covers admission types, gender, treatment conditions, and monthly admissions.
 * Used to analyze hospital performance and patient management through Tableau.
+[🏥 Hospital Data Analysis Dataset (.xlsx)](https://github.com/Ezhilarasi-123/Tableau_Miniproject/blob/main/hospital_data_analysis_enhanced.xlsx)
 
 # Business Questions Answered 
 
