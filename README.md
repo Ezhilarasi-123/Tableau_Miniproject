@@ -35,6 +35,8 @@
 * Visualizes patient distribution, department performance, and admission trends.
 * Enables quick analysis for hospital administrators and healthcare professionals.
 
+  ![Hospital Patient Records Dashboard](https://raw.githubusercontent.com/Ezhilarasi-123/Tableau_Miniproject/main/Screenshot%202026-07-08%20114813.png)
+
 # Project Process 
 
 1. Collected and imported the Hospital Data Analysis dataset into Tableau.
@@ -42,6 +44,8 @@
 3. Created calculated fields and KPIs for patient count, revenue, and performance analysis.
 4. Designed interactive charts, KPI cards, filters, and dashboards using Tableau.
 5. Developed a professional healthcare dashboard to generate actionable insights.
+
+   ![Hospital Patient Records Dashboard](https://raw.githubusercontent.com/Ezhilarasi-123/Tableau_Miniproject/main/Screenshot%202026-07-08%20114813.png)
 
 # Project Insights 
 
